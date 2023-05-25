@@ -6,8 +6,6 @@
   "repository": "https://github.com/agam778/realmebot-api.git",
   "author": "Agampreet Singh",
   "license": "GPL-3.0",
-  "private": true,
-  "packageManager": "yarn@3.5.1",
   "scripts": {
     "start": "node index.js"
   },
