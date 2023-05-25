@@ -7,5 +7,11 @@
   "author": "Agampreet Singh",
   "license": "GPL-3.0",
   "private": true,
-  "packageManager": "yarn@3.5.1"
+  "packageManager": "yarn@3.5.1",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
