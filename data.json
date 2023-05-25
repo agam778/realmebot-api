@@ -78,7 +78,8 @@
     "lunaa": "Realme GT Master Edition",
     "cupida": "Realme GT Neo",
     "UNKNOWN": "Realme GT Neo Flash/Realme GT Neo2T 5G",
-    "bitra": "Realme GT Neo2 5G/Realme GT Neo3T",
+    "bitra/RMX3370": "Realme GT Neo2 5G",
+    "bitra/RMX3371": "Realme GT Neo3T",
     "lisaa": "Realme GT Neo3",
     "porsche": "Realme GT 2",
     "ferrari": "Realme GT 2 Pro"
