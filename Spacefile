@@ -5,3 +5,5 @@ micros:
     src: ./
     engine: nodejs16
     primary: true
+    public_routes:
+      - /*
