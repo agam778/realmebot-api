@@ -56,7 +56,8 @@
   },
   "Realme Narzo": {
     "nemo/sarter": "Realme Narzo",
-    "monetx/monet": "Realme Narzo 10/10A",
+    "monetx": "Realme Narzo 10",
+    "monet": "Realme Narzo 10A",
     "pascala": "Realme Narzo 20",
     "UNKNOWN": "Realme Narzo 20A/Realme Narzo 50i",
     "sala": "Realme Narzo 20 Pro/30",
