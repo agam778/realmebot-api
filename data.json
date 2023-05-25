@@ -50,8 +50,14 @@
     "miami": "Realme C55"
   },
   "Realme X": {
-    "UNKNOWN": "Realme X/Realme XT/Realme XT 730G/Realme X2/Realme X2 Pro/Realme X3/Realme X3 SuperZoom/Realme X50/Realme X50m/Realme X7/Realme X7 Pro/Realme X7 Pro Ultra/Realme X9/Realme X9 Pro",
-    "bladerunner": "Realme X50 Pro/Realme X50 Pro Player",
+    "UNKNOWN": "Realme XT 730G/Realme X2/Realme X3/Realme X3 SuperZoom/Realme X50/Realme X50m/Realme X7 Pro Ultra/Realme X9/Realme X9 Pro",
+    "RMX1901/RMX1901CN": "Realme X",
+    "RMX1921/RMX1921EU": "Realme XT",
+    "RMX1931/RMX1931CN": "Realme X2 Pro",
+    "bladerunner": "Realme X50 Pro",
+    "bladerunner_48m": "Realme X50 Pro Player",
+    "RMX3092": "Realme X7",
+    "RMX2131": "Realme X7 Pro",
     "cupida": "Realme X7 Max"
   },
   "Realme Narzo": {
