@@ -3,98 +3,97 @@
     "CC027/CPH1859": "Realme 1",
     "banana/RMX1831/RMX1833": "Realme U1",
     "DD045/DD090/DD093/DD095/DD141/DD145": "Realme 2",
-    "ZAL1810": "Realme 3/Realme 3i",
     "monets": "Realme 5",
-    "bear": "Realme 5i",
+    "bear/RMX2030/RMX2032": "Realme 5i",
     "largan_2nd": "Realme 5s",
     "nemo/sarter": "Realme 6/6s/6i India",
     "monetx": "Realme 6i Global",
     "sala": "Realme 7",
     "pascala": "Realme 7i Global",
-    "coco": "Realme 7i India",
+    "coco/RMX2103": "Realme 7i India",
     "nashc": "Realme 8",
     "spaced": "Realme 8i",
-    "golf": "Realme 9i",
     "messi/panther": "Realme 9",
-    "doki": "Realme 10"
+    "golf": "Realme 9i",
+    "doki/RMX3630": "Realme 10"
   },
   "Realme 5G": {
     "athensb/athensc/athensd": "Realme 7 5G",
     "apollob": "Realme 8 5G",
     "apollow": "Realme 8s 5G",
-    "ice": "Realme 9 5G Speed",
+    "apollok": "Realme 9 5G Speed",
     "UNKNOWN": "Realme 10 5G"
-  },
-  "Realme Pro": {
-    "jared": "Realme 2 Pro",
-    "nico": "Realme 3 Pro",
-    "UNKNOWN": "Realme 5 Pro/Realme 10 Pro",
-    "plato": "Realme 6 Pro",
-    "athens": "Realme 7 Pro",
-    "nasha": "Realme 8 Pro",
-    "moss": "Realme 9 Pro+",
-    "oscar": "Realme 9 Pro",
-    "roma": "Realme 10 Pro+"
   },
   "Realme C": {
     "DD045": "Realme C1",
     "winter": "Realme C2/C2s",
     "monet": "Realme C3",
-    "pascal": "Realme C11/C12/C15",
     "marlin": "Realme C11 2021",
+    "pascal": "Realme C11/C12/C15",
     "pascalh": "Realme C15 Qualcomm edition",
-    "UNKNOWN": "Realme C17/Realme C20A/Realme C21Y/Realme C25Y/Realme C31",
     "rio": "Realme C20/C21",
     "even": "Realme C25/Realme C25s",
     "nicky": "Realme C35",
-    "miami": "Realme C55"
-  },
-  "Realme X": {
-    "UNKNOWN": "Realme XT 730G/Realme X2/Realme X3/Realme X3 SuperZoom/Realme X50/Realme X50m/Realme X7 Pro Ultra/Realme X9/Realme X9 Pro",
-    "RMX1901/RMX1901CN": "Realme X",
-    "RMX1921/RMX1921EU": "Realme XT",
-    "RMX1931/RMX1931CN": "Realme X2 Pro",
-    "bladerunner": "Realme X50 Pro",
-    "bladerunner_48m": "Realme X50 Pro Player",
-    "RMX3092": "Realme X7",
-    "RMX2131": "Realme X7 Pro",
-    "cupida": "Realme X7 Max"
-  },
-  "Realme Narzo": {
-    "nemo/sarter": "Realme Narzo",
-    "monetx": "Realme Narzo 10",
-    "monet": "Realme Narzo 10A",
-    "pascala": "Realme Narzo 20",
-    "UNKNOWN": "Realme Narzo 20A/Realme Narzo 50i",
-    "sala": "Realme Narzo 20 Pro/30",
-    "euler": "Realme Narzo 30A",
-    "apollok": "Realme Narzo 30 5G",
-    "athensb/athensc/athensd": "Realme Narzo 30 Pro 5G",
-    "even": "Realme Narzo 50A"
+    "miami": "Realme C55",
+    "UNKNOWN": "Realme C17/Realme C20A/Realme C21Y/Realme C25Y/Realme C31"
   },
   "Realme GT": {
-    "cupid": "Realme GT 5G",
-    "riven": "Realme GT Explorer Master Edition",
     "lunaa": "Realme GT Master Edition",
-    "cupida": "Realme GT Neo",
-    "UNKNOWN": "Realme GT Neo Flash/Realme GT Neo2T 5G",
-    "bitra/RMX3370": "Realme GT Neo2 5G",
-    "bitra/RMX3371": "Realme GT Neo3T",
-    "lisaa": "Realme GT Neo3",
+    "riven": "Realme GT Explorer Master Edition",
+    "cupid": "Realme GT 5G",
     "porsche": "Realme GT 2",
-    "ferrari": "Realme GT 2 Pro"
+    "ferrari": "Realme GT 2 Pro",
+    "cupida": "Realme GT Neo",
+    "bitra/RMX3370": "Realme GT Neo2 5G",
+    "lisaa": "Realme GT Neo3",
+    "bitra/RMX3371": "Realme GT Neo3T",
+    "UNKNOWN": "Realme GT Neo Flash/Realme GT Neo2T 5G"
+  },
+  "Realme Narzo": {
+    "UNKNOWN": "Realme Narzo 20A/Realme Narzo 50i",
+    "apollok": "Realme Narzo 30 5G",
+    "athensb/athensc/athensd": "Realme Narzo 30 Pro 5G",
+    "euler": "Realme Narzo 30A",
+    "monetx": "Realme Narzo 10",
+    "monet": "Realme Narzo 10A",
+    "nemo/sarter": "Realme Narzo",
+    "pascala": "Realme Narzo 20",
+    "sala": "Realme Narzo 20 Pro/30",
+    "even": "Realme Narzo 50A"
+  },
+  "Realme Pro": {
+    "UNKNOWN": "Realme 5 Pro/Realme 10 Pro",
+    "athens": "Realme 7 Pro",
+    "jared": "Realme 2 Pro",
+    "moss": "Realme 9 Pro+",
+    "nasha": "Realme 8 Pro",
+    "nico": "Realme 3 Pro",
+    "oscar": "Realme 9 Pro",
+    "plato": "Realme 6 Pro",
+    "roma": "Realme 10 Pro+"
   },
   "Realme Q": {
     "UNKNOWN": "Realme Q/Realme Q2/Realme Q2i/Realme Q3 Pro 5G/Realme Q3 Pro Carnival/Realme Q3t",
+    "apoll": "Realme Q3i 5G",
     "athensb/athensc/athensd": "Realme Q2 Pro",
-    "zeus": "Realme Q3 5G",
-    "apollob": "Realme Q3i 5G",
+    "bitra": "Realme Q5 Pro",
     "Ice": "Realme Q3s",
-    "bitra": "Realme Q5 Pro"
+    "zeus": "Realme Q3 5G"
   },
   "Realme V": {
     "UNKNOWN": "Realme V3/Realme V5 5G/Realme V11 5G/Realme V15 5G",
     "apollow": "Realme V11s 5G",
     "apollob": "Realme V13 5G"
+  },
+  "Realme X": {
+    "RMX1901/RMX1901CN": "Realme X",
+    "RMX1921/RMX1921EU": "Realme XT",
+    "RMX1931/RMX1931CN": "Realme X2 Pro",
+    "RMX3092": "Realme X7",
+    "RMX2131": "Realme X7 Pro",
+    "UNKNOWN": "Realme XT 730G/Realme X2/Realme X3/Realme X3 SuperZoom/Realme X50/Realme X50m/Realme X7 Pro Ultra/Realme X9/Realme X9 Pro",
+    "bladerunner": "Realme X50 Pro",
+    "bladerunner_48m": "Realme X50 Pro Player",
+    "cupida": "Realme X7 Max"
   }
 }
