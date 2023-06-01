@@ -47,16 +47,16 @@
     "miami/RMX3710": "Realme C55"
   },
   "Realme GT": {
-    "lunaa": "Realme GT Master Edition",
+    "lunaa/RMX3360/RMX3363": "Realme GT Master Edition",
     "riven": "Realme GT Explorer Master Edition",
-    "cupid": "Realme GT 5G",
-    "porsche": "Realme GT 2",
-    "ferrari": "Realme GT 2 Pro",
-    "cupida": "Realme GT Neo",
+    "cupid/RMX2202": "Realme GT 5G",
+    "porsche/RMX3310/RMX3312/RMX3311": "Realme GT2",
+    "ferrari/RMX3301/RMX3300": "Realme GT2 Pro",
+    "cupida/RMX3031": "Realme GT Neo",
+    "RMX3350": "Realme GT Neo Flash",
     "bitra/RMX3370": "Realme GT Neo2 5G",
-    "lisaa": "Realme GT Neo3",
-    "bitra/RMX3371": "Realme GT Neo3T",
-    "UNKNOWN": "Realme GT Neo Flash/Realme GT Neo2T 5G"
+    "lisaa/RMX3561/RMX3560": "Realme GT Neo 3",
+    "bitra/RMX3372/RMX3371": "Realme GT Neo3T"
   },
   "Realme Narzo": {
     "UNKNOWN": "Realme Narzo 20A/Realme Narzo 50i",
