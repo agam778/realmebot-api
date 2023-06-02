@@ -73,15 +73,16 @@
     "RMX3235": "Realme Narzo 50i"
   },
   "Realme Pro": {
-    "UNKNOWN": "Realme 5 Pro/Realme 10 Pro",
-    "athens": "Realme 7 Pro",
-    "jared": "Realme 2 Pro",
-    "moss": "Realme 9 Pro+",
-    "nasha": "Realme 8 Pro",
-    "nico": "Realme 3 Pro",
-    "oscar": "Realme 9 Pro",
-    "plato": "Realme 6 Pro",
-    "roma": "Realme 10 Pro+"
+    "jared/RMX1801/RMX1807/RMX1803": "Realme 2 Pro",
+    "nico/RMX1851": "Realme 3 Pro",
+    "RMX1971/RMX1973": "Realme 5 Pro",
+    "plato/RMX2061/RMX2063": "Realme 6 Pro",
+    "athens/RMX2170": "Realme 7 Pro",
+    "nasha/RMX3081": "Realme 8 Pro",
+    "oscar/RMX3471/RMX3472": "Realme 9 Pro",
+    "moss/RMX3392/RMX3393": "Realme 9 Pro+",
+    "RMX3663/RMX3660/RMX3661": "Realme 10 Pro",
+    "roma/RMX3687/RMX3686": "Realme 10 Pro+"
   },
   "Realme Q": {
     "UNKNOWN": "Realme Q/Realme Q2/Realme Q2i/Realme Q3 Pro 5G/Realme Q3 Pro Carnival/Realme Q3t",
