@@ -59,16 +59,18 @@
     "bitra/RMX3372/RMX3371": "Realme GT Neo3T"
   },
   "Realme Narzo": {
-    "UNKNOWN": "Realme Narzo 20A/Realme Narzo 50i",
-    "apollok": "Realme Narzo 30 5G",
-    "athensb/athensc/athensd": "Realme Narzo 30 Pro 5G",
-    "euler": "Realme Narzo 30A",
-    "monetx": "Realme Narzo 10",
-    "monet": "Realme Narzo 10A",
     "nemo/sarter": "Realme Narzo",
-    "pascala": "Realme Narzo 20",
-    "sala": "Realme Narzo 20 Pro/30",
-    "even": "Realme Narzo 50A"
+    "monetx/RMX2040": "Realme Narzo 10",
+    "monet/RMX2020": "Realme Narzo 10A",
+    "pascala/RMX2193": "Realme Narzo 20",
+    "RMX2050": "Realme Narzo 20A",
+    "sala/RMX2161": "Realme Narzo 20 Pro",
+    "sala/RMX2156": "Realme Narzo 30",
+    "apollok/RMX3242": "Realme Narzo 30 5G",
+    "euler/RMX3171": "Realme Narzo 30A",
+    "athensb/athensc/athensd/RMX2117": "Realme Narzo 30 Pro 5G",
+    "even/RMX3430": "Realme Narzo 50A",
+    "RMX3235": "Realme Narzo 50i"
   },
   "Realme Pro": {
     "UNKNOWN": "Realme 5 Pro/Realme 10 Pro",
