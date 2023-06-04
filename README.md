@@ -4,7 +4,7 @@ The RealmeBot API is an API that provides information about Realme devices. It a
 
 ## Overview
 
-The RealmeBot API is built using Node.js and Express.js. It utilizes a JSON data file containing information about various Realme devices, including their series, codenames, and models. 
+The RealmeBot API is built using Node.js and Express.js. It utilizes a JSON data file containing information about various Realme devices, including their series, codenames, and models.
 
 ## Installation
 
@@ -26,7 +26,9 @@ The RealmeBot API provides the following endpoints:
 The API is publically available at https://realmebotapi-1-e2272932.deta.app/.
 
 ## Contributing
-You can add more devices/codenames in the [`data.json`](./data.json) file. Please make sure to follow the existing format. 
+
+You can add more devices/codenames in the [`data.json`](./data.json) file. Please make sure to follow the existing format.
 
 ## License
+
 This project is licensed under the [GNU General Public License v3.0](./LICENSE).
