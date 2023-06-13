@@ -49,6 +49,7 @@
     "RMX3265/RMX3268/RMX3269": "Realme C25Y",
     "RMX3501": "Realme C31",
     "nicky/RMX3511": "Realme C35",
+    "hulk/RMX3760": "Realme C53",
     "miami/RMX3710": "Realme C55"
   },
   "Realme GT": {
@@ -79,7 +80,7 @@
     "RMX3516": "Realme Narzo 50A Prime",
     "RMX3235": "Realme Narzo 50i",
     "RMX3506": "Realme Narzo 50i Prime",
-    "RMX3761": "Realme Narzo N53",
+    "hulk/RMX3761": "Realme Narzo N53",
     "miami/RMX3710": "Realme Narzo N55"
   },
   "Realme Narzo Pro": {
