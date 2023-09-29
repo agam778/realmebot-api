@@ -17,7 +17,7 @@
     "messi/panther/RMX3521": "Realme 9 4G",
     "golf/RMX3491": "Realme 9i 4G",
     "doki/RMX3630": "Realme 10 4G",
-    "UNKNOW": "Realme 11 4G"
+    "UNKNOWN": "Realme 11 4G"
   },
   "Realme 5G": {
     "athensb/athensc/athensd/RMX2111": "Realme 7 5G",
@@ -52,7 +52,7 @@
     "RMX3501": "Realme C31",
     "RMX3624/RMX3627": "Realme C33",
     "nicky/RMX3511": "Realme C35",
-    "UNKNOW": "Realme C51",
+    "RMX3830": "Realme C51",
     "hulk/RMX3760": "Realme C53",
     "miami/RMX3710": "Realme C55"
   },
@@ -113,7 +113,8 @@
     "RMX3770": "Realme 11 Pro 5G"
   },
   "Realme Q": {
-    "UNKNOWN": "Realme Q/Realme Q2i/Realme Q3t",
+    "RMX1971": "Realme Q",
+    "UNKNOWN": "Realme Q2i/Realme Q3t",
     "RMX2117": "Realme Q2",
     "athensb/athensc/athensd/RMX2173": "Realme Q2 Pro",
     "RMX2205": "Realme Q3 Pro 5G",
@@ -129,9 +130,12 @@
     "banana/RMX1831/RMX1833": "Realme U1"
   },
   "Realme V": {
-    "UNKNOWN": "Realme V3/Realme V5 5G/Realme V11 5G/Realme V15 5G",
+    "RMX2200": "Realme V3",
+    "RMX2111/RMX2112": "Realme V5 5G",
+    "RMX3121/RMX3122": "Realme V11 5G",
     "apollow": "Realme V11s 5G",
-    "apollob": "Realme V13 5G"
+    "apollob": "Realme V13 5G",
+    "RMX3092/RMX3093": "Realme V15 5G"
   },
   "Realme X": {
     "RMX1901/RMX1901CN": "Realme X",
