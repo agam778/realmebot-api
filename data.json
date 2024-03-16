@@ -28,7 +28,8 @@
     "RMX3612": "Realme 9i 5G",
     "RMX3663": "Realme 10 5G",
     "chongqin/RMX3780": "Realme 11 5G",
-    "chongqin/RMX3785": "Realme 11X 5G"
+    "chongqin/RMX3785": "Realme 11X 5G",
+    "barley/RMX3999": "Realme 12 5G"
   },
   "Realme C": {
     "DD045": "Realme C1",
@@ -111,7 +112,8 @@
     "roma/RMX3687/RMX3686": "Realme 10 Pro+ 5G",
     "chengdu/RMX3740": "Realme 11 Pro+ 5G",
     "chengdu/RMX3770": "Realme 11 Pro 5G",
-    "coffee/RMX3840": "Realme 12 Pro+ 5G"
+    "coffee/RMX3840": "Realme 12 Pro+ 5G",
+    "coffee/RMX3842": "Realme 12 Pro 5G"
   },
   "Realme Q": {
     "RMX1971": "Realme Q",
