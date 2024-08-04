@@ -17,8 +17,8 @@
     "messi/panther/RMX3521": "Realme 9 4G",
     "golf/RMX3491": "Realme 9i 4G",
     "doki/RMX3630": "Realme 10 4G",
-    "UNKNOWN": "Realme 11 4G",
-    "UNKNOWN": "Realme 12 4G"
+    "RMX3636": "Realme 11 4G",
+    "RMX3871": "Realme 12 4G"
   },
   "Realme 5G": {
     "athensb/athensc/athensd/RMX2111": "Realme 7 5G",
@@ -46,7 +46,7 @@
     "pascalh/RMX2195": "Realme C15 Qualcomm edition",
     "RMX2101": "Realme C17",
     "rio/RMX3063/RMX3061": "Realme C20",
-    "UNKNOWN": "Realme C20A",
+    "RMX3063": "Realme C20A",
     "rio/RMX3201": "Realme C21",
     "RMX3261/RMX3263": "Realme C21Y",
     "even/RMX3193/RMX3191": "Realme C25",
@@ -58,7 +58,7 @@
     "RMX3830": "Realme C51",
     "hulk/RMX3760/RMX3762": "Realme C53",
     "miami/RMX3710": "Realme C55",
-    "UNKNOWN": "Realme C65 5G",
+    "RMX3997": "Realme C65 5G",
     "RMX3782": "Realme C67 5G"
   },
   "Realme GT": {
@@ -97,18 +97,18 @@
     "RMX3506": "Realme Narzo 50i Prime",
     "hulk/RMX3761": "Realme Narzo N53",
     "miami/RMX3710": "Realme Narzo N55",
-    "UNKNOWN": "Realme Narzo N63",
+    "RMX3939": "Realme Narzo N63",
     "RMX3997": "Realme Narzo N65 5G",
     "RMX3750": "Realme Narzo 60 5G",
-    "UNKNOWN": "Realme Narzo 70 5G",
-    "UNKNOWN": "Realme Narzo 70X 5G"
+    "RMX3869": "Realme Narzo 70 5G",
+    "RMX3998": "Realme Narzo 70X 5G"
   },
   "Realme Narzo Pro": {
     "sala/RMX2161": "Realme Narzo 20 Pro",
     "athensb/athensc/athensd/RMX2117": "Realme Narzo 30 Pro 5G",
     "RMX3395/RMX3396": "Realme Narzo 50 Pro 5G",
     "RMX3771": "Realme Narzo 60 Pro 5G",
-    "UNKNOWN": "Realme Narzo 70 Pro 5G"
+    "RMX3868": "Realme Narzo 70 Pro 5G"
   },
   "Realme P": {
     "RMX3870": "Realme P1",
