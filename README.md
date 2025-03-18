@@ -23,7 +23,7 @@ The RealmeBot API provides the following endpoints:
 - `GET /`: Retrieves the entire JSON data containing information about Realme devices.
 - `GET /:query`: Searches for Realme devices based on the provided query. The query can be a codename or series or model name.
 
-The API is publically available at https://realmebotapi-1-e2272932.deta.app/.
+The API is publically available at https://rbapi.up.railway.app/.
 
 ## Contributing
 
